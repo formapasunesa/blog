@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Formapas Blog</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Formapas Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Mar 2022 20:52:34 +0700</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Olympic</title>
+      <link>http://example.org/tags/olympic/</link>
+      <pubDate>Wed, 30 Mar 2022 20:52:34 +0700</pubDate>
+      
+      <guid>http://example.org/tags/olympic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview</title>
+      <link>http://example.org/tags/interview/</link>
+      <pubDate>Thu, 04 Nov 2021 13:52:05 +0700</pubDate>
+      
+      <guid>http://example.org/tags/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://example.org/tags/photography/</link>
+      <pubDate>Thu, 04 Nov 2021 13:52:05 +0700</pubDate>
+      
+      <guid>http://example.org/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photographer</title>
+      <link>http://example.org/tags/photographer/</link>
+      <pubDate>Thu, 04 Nov 2021 13:52:03 +0700</pubDate>
+      
+      <guid>http://example.org/tags/photographer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rating</title>
+      <link>http://example.org/tags/rating/</link>
+      <pubDate>Thu, 04 Nov 2021 13:51:55 +0700</pubDate>
+      
+      <guid>http://example.org/tags/rating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
